@@ -1,2 +1,2 @@
 # demonstration
-this is a new section 
+This is an example
